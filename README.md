@@ -24,7 +24,7 @@ My statistics are as shown :
 
 | Task-List  | Description  | Status     |
 |------------|--------------|------------|
-| Task-00    |              | completed  |
+| Task-00    | https://github.com/Vasudev-Das/amfoss-tasks./tree/main/task-00             | completed  |
 | Task-01    |              |            |
 | Task-02    |              |            |
 | Task-03    |              |            |              
