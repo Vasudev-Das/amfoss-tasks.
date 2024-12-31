@@ -24,7 +24,7 @@ My statistics are as shown :
 
 | Task-List  | Description  | Status     |
 |------------|--------------|------------|
-| Task-00    | https://github.com/Vasudev-Das/amfoss-tasks./tree/main/task-00             | completed  |
+| Task-00    | <a href="https://github.com/Vasudev-Das/amfoss-tasks./tree/1cddca6464f96c1aa9bd2cb33f929c9af7d76128/task-00">Install Linux</a>           | completed  |
 | Task-01    |              |            |
 | Task-02    |              |            |
 | Task-03    |              |            |              
