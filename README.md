@@ -22,8 +22,8 @@ I think to contribute significantly to this club, Active participation is a  mus
 # TASK STATUS
 My statistics are as shown :
 
-| Name        | Role         | Location   |
-|-------------|--------------|------------|
+| Task-List  | Description  | Status     |
+|------------|--------------|------------|
 | Task-00    |              | completed  |
 | Task-01    |              |            |
 | Task-02    |              |            |
